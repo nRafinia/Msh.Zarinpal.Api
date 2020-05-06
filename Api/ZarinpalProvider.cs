@@ -120,7 +120,9 @@ namespace Zarinpal.Api
             {
                 var t = await _httpClient.PostAsync(url, 
                     new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json"));
-                var f = await t.Content.ReadAsAsync<T>();
+
+                var fs = await t?.Content?.ReadAsStringAsync();
+                var f = JsonConvert.DeserializeObject<T>(fs);
                 return ZarinpalResult<T>.Invoke(f);
             }
             catch

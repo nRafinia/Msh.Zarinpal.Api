@@ -1,0 +1,9 @@
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\bin\Debug\netstandard2.0\Zarinpal.Api.deps.json
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\bin\Debug\netstandard2.0\Zarinpal.Api.dll
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\bin\Debug\netstandard2.0\Zarinpal.Api.pdb
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\obj\Debug\netstandard2.0\Zarinpal.Api.csprojAssemblyReference.cache
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\obj\Debug\netstandard2.0\Zarinpal.Api.csproj.CoreCompileInputs.cache
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\obj\Debug\netstandard2.0\Zarinpal.Api.AssemblyInfoInputs.cache
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\obj\Debug\netstandard2.0\Zarinpal.Api.AssemblyInfo.cs
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\obj\Debug\netstandard2.0\Zarinpal.Api.dll
+H:\Projects\GitHub\nRafinia\Zarinpal\Api\obj\Debug\netstandard2.0\Zarinpal.Api.pdb

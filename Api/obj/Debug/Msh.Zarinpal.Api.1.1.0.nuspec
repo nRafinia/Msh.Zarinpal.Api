@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Msh.Zarinpal.Api</id>
+    <version>1.1.0</version>
+    <authors>Mazdak Shojaie</authors>
+    <owners>Mazdak Shojaie</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT OR Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/MIT%20OR%20Apache-2.0</licenseUrl>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="3.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="3.1.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options" version="3.1.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="H:\Projects\GitHub\nRafinia\Zarinpal\Api\bin\Debug\netstandard2.0\Zarinpal.Api.dll" target="lib\netstandard2.0\Zarinpal.Api.dll" />
+  </files>
+</package>
