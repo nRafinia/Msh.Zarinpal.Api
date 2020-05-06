@@ -1,11 +1,11 @@
 #### Msh.Zarinpal.Api
-A light weight library *(with respect to [zarinpal-dotNet](https://github.com/ZarinPal-Lab/zarinpal-dotNet))* to help online payment using *[Zarinpal](https://www.zarinpal.com)* for `.NET core 2.2` web application.
+A light weight library *(with respect to [zarinpal-dotNet](https://github.com/ZarinPal-Lab/zarinpal-dotNet))* to help online payment using *[Zarinpal](https://www.zarinpal.com)* for `.NET standard 2.0` web application.
 
 #### Installation
 You can download the latest version of `Msh.Zarinpal.Api` from [Github repository](https://github.com/hrsh/Msh.Zarinpal.Api).
 To install via `nuget`:
 ```
-Install-Package Msh.Zarinpal.Api -Version 1.0.3
+Install-Package Msh.Zarinpal.Api -Version 1.1.0
 ```
 Install from [Nuget](https://www.nuget.org/packages/Msh.Zarinpal.Api/) directly.
 
